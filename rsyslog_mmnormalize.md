@@ -1,4 +1,3 @@
-````markdown
 # liblognorm / mmnormalize Rulebase Quick Guide
 
 This is a **comprehensive, clear, and practical guide** for anyone working with `mmnormalize` and liblognorm-based rulebases.
@@ -16,7 +15,7 @@ First matching rule wins.
 version=2
 rule=:<pattern>
 rule=:<pattern>
-````
+```
 
 ---
 
